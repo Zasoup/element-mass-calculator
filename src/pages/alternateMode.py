@@ -19,7 +19,7 @@ import plotly.express as px
 import dash_bootstrap_components as dbc
 import pandas as pd
 import numpy as np
-from Elements import elem
+from ..Elements import elem
 
 dash.register_page(__name__, name='Alternate Mode')
 external_stylesheets = [{
