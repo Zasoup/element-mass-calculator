@@ -12,7 +12,7 @@ import dash_bootstrap_components as dbc
 import plotly.express as px
 import pandas as pd
 import numpy as np
-from ..Elements import elem
+from src.Elements import elem
 
 external_stylesheets = [{
     'href': 'https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap',
